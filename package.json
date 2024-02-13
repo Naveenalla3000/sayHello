@@ -2,6 +2,9 @@
   "name": "@Naveenalla3000/sayhello",
   "version": "1.0.0",
   "description": "",
+  "publishConfig": {
+    "@Naveenalla3000:registry": "https://npm.pkg.github.com"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
